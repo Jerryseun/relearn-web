@@ -1,0 +1,125 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: #F4F1F2;
+    text-align: center;
+    line-height: 40px;
+    margin: 0px ;
+}
+
+#logo-text-one {
+    color: #EC1600;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#logo-text-two {
+    color: #464646;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#logo-text-three {
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#about-us {
+    display: inline-block;
+    line-height: 45px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-image: url("http://bit.ly/relearnbac");
+}
+
+figcaption{
+    display: block;
+}
+
+p {
+    font-size: 17px;
+    padding: 10px 250px 0px 150px;
+    align-content: center;
+
+}
+
+/*article {
+    border: none;
+    margin: 80px 125px 100px 50px;
+    
+}
+*/
+h2 {
+    text-align: center;
+    color: #464646;
+    font-weight: bold;
+}
+
+h3 {
+    color: #464646;
+    font-weight: bold; 
+}
+
+#img-article {
+    width: 375px;
+    height: 260px;
+    float: left;   
+}
+
+#article-one {
+    border: none;
+    margin: 30px 100px 100px 125px;
+    
+}
+
+#article-two {
+    border: none;
+    margin: 80px 125px 100px 125px;
+}
+
+#article-three {
+    border: none;
+    margin: 80px 125px 100px 125px;
+}
+
+#article-one p, #article-two p, #article-three p {
+    display: block;
+    color: #464646;
+    padding-left: 450px;
+    font-size: 18px;
+}
+
+footer {
+    line-height: 75px;
+    bottom: 0px;
+    width: 100%;
+    background-color: #484A5D;
+    color: #FFFFFF;
+}
+
+#foot-text-one {
+    font-size: 40px;
+    padding: 50px 50px; 
+   
+}
+
+#foot-text-two {
+    display: inline;
+    font-size: 10px;
+    padding-top: 60px;
+    padding-left: 0px;
+    padding-bottom: 15px;
+}
+
+#social-tw {
+    float: right;
+    padding-right: 125px;
+    padding-bottom: 65px;
+} 
+
+
